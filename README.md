@@ -7,11 +7,7 @@
 [![Test Coverage][coverage-image]][coverage-url]
 [![Follow @trailsjs on Twitter][twitter-image]][twitter-url]
 
-[![OpenCollective](https://opencollective.com/trails/backers/badge.svg)](#backers) 
-[![OpenCollective](https://opencollective.com/trails/sponsors/badge.svg)](#sponsors)
-
-
-Trails is a modern, community-driven web application framework for node.js. It
+Trails is a modern, [community-driven](https://opencollective.com/trails) web application framework for Node.js. It
 builds on the pedigree of [Rails](http://rubyonrails.org/) and [Grails](https://grails.org/)
 to accelerate development by adhering to a straightforward, convention-based,
 API-driven design philosophy.
@@ -79,21 +75,27 @@ Many Trails installations will include some of the following Trailpacks:
 ## Compatibility
 
 - Windows, Mac, and Linux
-- Node 4.0 and newer
+- Node 7.0 and newer
 
-## Resources
+## Documentation
+
+See [**trailsjs.io/doc**](http://trailsjs.io/doc) for complete documentation.
+
+## More Resources
 
 #### Tutorials
-- [Getting started](http://blog.jaumard.com/en/2016/01/05/getting-started-with-trails/)
-- [Create a custom Trailpack](http://blog.jaumard.com/en/2016/01/06/create-a-trailpack-for-trails/)
+- [Getting Started](http://blog.jaumard.com/en/2016/01/05/getting-started-with-trails/)
+- [Create a Custom Trailpack](http://blog.jaumard.com/en/2016/01/06/create-a-trailpack-for-trails/)
+- [Trails and Angular](https://cali-style.com/blog/trails-js-and-angular)
 
 #### Videos
 - [Getting Started with Trails.js](https://www.youtube.com/watch?v=AbSp8jqFDAY)
 
 #### Support
 - [Live Gitter Chat](https://gitter.im/trailsjs/trails)
-- [Stackoverflow](http://stackoverflow.com/questions/tagged/trailsjs)
 - [Twitter](https://twitter.com/trailsjs)
+- [Trails.js Website](http://trailsjs.io/support)
+- [Stackoverflow](http://stackoverflow.com/questions/tagged/trailsjs)
 
 ## FAQ
 
@@ -105,7 +107,11 @@ information on how our projects are organized and how to get started.
 
 ## Backers
 
- [[Become a backer](https://opencollective.com/trails#backer)]
+
+[![OpenCollective](https://opencollective.com/trails/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/trails/sponsors/badge.svg)](#sponsors)
+
+[[Become a backer](https://opencollective.com/trails#backer)]
 
 <a href="https://opencollective.com/trails/backer/0/website" target="_blank"><img src="https://opencollective.com/trails/backer/0/avatar.svg"></a>
 <a href="https://opencollective.com/trails/backer/1/website" target="_blank"><img src="https://opencollective.com/trails/backer/1/avatar.svg"></a>
